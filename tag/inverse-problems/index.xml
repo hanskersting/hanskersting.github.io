@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inverse problems | H. Kersting</title>
+    <link>https://hanskersting.github.io/tag/inverse-problems/</link>
+      <atom:link href="https://hanskersting.github.io/tag/inverse-problems/index.xml" rel="self" type="application/rss+xml" />
+    <description>inverse problems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>inverse problems</title>
+      <link>https://hanskersting.github.io/tag/inverse-problems/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ’Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</link>
+      <pubDate>Tue, 14 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
