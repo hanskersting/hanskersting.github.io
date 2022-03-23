@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probabilistic numerics | H. Kersting</title>
+    <link>https://hanskersting.github.io/tag/probabilistic-numerics/</link>
+      <atom:link href="https://hanskersting.github.io/tag/probabilistic-numerics/index.xml" rel="self" type="application/rss+xml" />
+    <description>probabilistic numerics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 12:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>probabilistic numerics</title>
+      <link>https://hanskersting.github.io/tag/probabilistic-numerics/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
+      <link>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</link>
+      <pubDate>Tue, 06 Jul 2021 12:30:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
