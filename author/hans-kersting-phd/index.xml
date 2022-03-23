@@ -17,29 +17,15 @@
       <link>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</link>
       <pubDate>Tue, 06 Jul 2021 12:30:00 +0000</pubDate>
       <guid>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
- --&gt;</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Hello world! I&#39;m Paul!</title>
+      <title>Hello world! I&#39;m Hans!</title>
       <link>https://hanskersting.github.io/post/first_post/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://hanskersting.github.io/post/first_post/</guid>
-      <description>&lt;p&gt;This is the first post on this website. More will follow!&lt;/p&gt;
+      <description>&lt;p&gt;Nice to e-meet you! This is the first post on this website. More will follow!&lt;/p&gt;
 </description>
     </item>
     
