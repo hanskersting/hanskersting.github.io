@@ -5,12 +5,28 @@
     <link>https://hanskersting.github.io/publication/</link>
       <atom:link href="https://hanskersting.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://hanskersting.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/publication/differentiable-likelihoods/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/differentiable-likelihoods/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic Solutions to Ordinary Differential Equations as Non-Linear Bayesian Filtering: A New Perspective</title>

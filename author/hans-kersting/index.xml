@@ -5,12 +5,20 @@
     <link>https://hanskersting.github.io/author/hans-kersting/</link>
       <atom:link href="https://hanskersting.github.io/author/hans-kersting/index.xml" rel="self" type="application/rss+xml" />
     <description>Hans Kersting</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Oct 2021 14:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/author/hans-kersting/avatar_hucc8ac7173832021679b04ea94fc95292_10223844_270x270_fill_lanczos_center_3.png</url>
       <title>Hans Kersting</title>
       <link>https://hanskersting.github.io/author/hans-kersting/</link>
     </image>
+    
+    <item>
+      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ODE Filters — Forward and Backward</title>
@@ -42,6 +50,14 @@
       <link>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</link>
       <pubDate>Tue, 14 Jul 2020 10:00:00 +0000</pubDate>
       <guid>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/publication/differentiable-likelihoods/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/differentiable-likelihoods/</guid>
       <description></description>
     </item>
     

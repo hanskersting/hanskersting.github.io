@@ -5,12 +5,28 @@
     <link>https://hanskersting.github.io/publication-type/1/</link>
       <atom:link href="https://hanskersting.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://hanskersting.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/publication/differentiable-likelihoods/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/differentiable-likelihoods/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Active Uncertainty Calibration in Bayesian ODE Solvers</title>
