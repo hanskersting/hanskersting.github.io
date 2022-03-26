@@ -26,5 +26,13 @@
 </description>
     </item>
     
+    <item>
+      <title>Bayesian Filtering for ODEs with Bounded Derivatives</title>
+      <link>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
