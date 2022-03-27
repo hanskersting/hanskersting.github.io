@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurelien Lucchi | H. Kersting</title>
+    <link>https://hanskersting.github.io/author/aurelien-lucchi/</link>
+      <atom:link href="https://hanskersting.github.io/author/aurelien-lucchi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurelien Lucchi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Aurelien Lucchi</title>
+      <link>https://hanskersting.github.io/author/aurelien-lucchi/</link>
+    </image>
+    
+    <item>
+      <title>Anticorrelated Noise Injection for Improved Generalization</title>
+      <link>https://hanskersting.github.io/publication/anticorrelated-noise/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/anticorrelated-noise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
