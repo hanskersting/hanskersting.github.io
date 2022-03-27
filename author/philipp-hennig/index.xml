@@ -5,12 +5,20 @@
     <link>https://hanskersting.github.io/author/philipp-hennig/</link>
       <atom:link href="https://hanskersting.github.io/author/philipp-hennig/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Hennig</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Philipp Hennig</title>
       <link>https://hanskersting.github.io/author/philipp-hennig/</link>
     </image>
+    
+    <item>
+      <title>Convergence Rates of Gaussian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/convergence-rates/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/convergence-rates/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>

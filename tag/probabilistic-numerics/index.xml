@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
+      <link>https://hanskersting.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 21 Apr 2021 14:14:10 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Rates of Gaussian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/convergence-rates/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/convergence-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differentiable Likelihoods for Fast Inversion of ’Likelihood-Free’ Dynamical Systems</title>
       <link>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</link>
       <pubDate>Tue, 14 Jul 2020 10:00:00 +0000</pubDate>

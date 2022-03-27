@@ -5,7 +5,7 @@
     <link>https://hanskersting.github.io/</link>
       <atom:link href="https://hanskersting.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Kersting</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>H. Kersting</title>
@@ -108,10 +108,10 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
-      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <title>Anticorrelated Noise Injection for Improved Generalization</title>
+      <link>https://hanskersting.github.io/publication/anticorrelated-noise/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/anticorrelated-noise/</guid>
       <description></description>
     </item>
     
@@ -132,12 +132,36 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
+      <link>https://hanskersting.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 21 Apr 2021 14:14:10 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello world! I&#39;m Hans!</title>
       <link>https://hanskersting.github.io/post/first_post/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://hanskersting.github.io/post/first_post/</guid>
       <description>&lt;p&gt;Nice to e-meet you! This is the first post on this website. More will follow!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Convergence Rates of Gaussian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/convergence-rates/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/convergence-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <description></description>
     </item>
     
     <item>
