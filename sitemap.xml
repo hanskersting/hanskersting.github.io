@@ -10,9 +10,33 @@
   <url>
     <loc>https://hanskersting.github.io/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://hanskersting.github.io/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
+    <loc>https://hanskersting.github.io/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://hanskersting.github.io/authors/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
+    <loc>https://hanskersting.github.io/publication-type/5/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/authors/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/tag/bayesian-inference/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/author/hans-kersting/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/tag/machine-learning/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/author/michael-a.-osborne/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/tag/numerical-analysis/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/author/philipp-hennig/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/tag/probabilistic-numerics/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/publication/pn_book/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/publication_types/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/publication/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://hanskersting.github.io/tags/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/categories/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
   <url>
@@ -25,8 +49,6 @@
     <loc>https://hanskersting.github.io/post/first_post/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/post/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/tags/</loc><lastmod>2022-03-29T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/publication-type/3/</loc><lastmod>2022-02-06T00:00:00+00:00</lastmod></url>
   <url>
@@ -46,25 +68,15 @@
   <url>
     <loc>https://hanskersting.github.io/tag/optimization/</loc><lastmod>2022-02-06T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://hanskersting.github.io/publication_types/</loc><lastmod>2022-02-06T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/publication/</loc><lastmod>2022-02-06T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/tag/numerical-analysis/</loc><lastmod>2021-10-26T14:15:00+00:00</lastmod></url>
-  <url>
     <loc>https://hanskersting.github.io/tag/ode-filtering/</loc><lastmod>2021-10-26T14:15:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/talk/ode-filters-forward-and-backward/</loc><lastmod>2021-10-26T14:15:00+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/tag/probabilistic-numerics/</loc><lastmod>2021-10-26T14:15:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/event/</loc><lastmod>2021-10-26T14:15:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</loc><lastmod>2021-07-06T12:30:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/publication-type/7/</loc><lastmod>2021-04-21T14:14:10+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/tag/machine-learning/</loc><lastmod>2021-04-21T14:14:10+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/tag/ode-filters/</loc><lastmod>2021-04-21T14:14:10+00:00</lastmod></url>
   <url>
@@ -79,8 +91,6 @@
     <loc>https://hanskersting.github.io/tag/convergence-rates/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/publication/convergence-rates/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://hanskersting.github.io/author/philipp-hennig/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://hanskersting.github.io/author/tim-j.-sullivan/</loc><lastmod>2020-11-01T00:00:00+00:00</lastmod></url>
   <url>

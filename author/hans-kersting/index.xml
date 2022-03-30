@@ -5,107 +5,18 @@
     <link>https://hanskersting.github.io/author/hans-kersting/</link>
       <atom:link href="https://hanskersting.github.io/author/hans-kersting/index.xml" rel="self" type="application/rss+xml" />
     <description>Hans Kersting</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanskersting.github.io/author/hans-kersting/avatar_hucc8ac7173832021679b04ea94fc95292_10223844_270x270_fill_lanczos_center_3.png</url>
+      <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Hans Kersting</title>
       <link>https://hanskersting.github.io/author/hans-kersting/</link>
     </image>
     
     <item>
-      <title>Hello world! I&#39;m Hans!</title>
-      <link>https://hanskersting.github.io/post/first_post/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/post/first_post/</guid>
-      <description>&lt;p&gt;Nice to e-meet you! This is the first post on this website. More will follow!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anticorrelated Noise Injection for Improved Generalization</title>
-      <link>https://hanskersting.github.io/publication/anticorrelated-noise/</link>
-      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/anticorrelated-noise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ODE Filters — Forward and Backward</title>
-      <link>https://hanskersting.github.io/talk/ode-filters-forward-and-backward/</link>
-      <pubDate>Tue, 26 Oct 2021 14:15:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/talk/ode-filters-forward-and-backward/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
-      <link>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</link>
-      <pubDate>Tue, 06 Jul 2021 12:30:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
-      <link>https://hanskersting.github.io/publication/phd-thesis/</link>
-      <pubDate>Wed, 21 Apr 2021 14:14:10 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/phd-thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence Rates of Gaussian ODE Filters</title>
-      <link>https://hanskersting.github.io/publication/convergence-rates/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/convergence-rates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
-      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differentiable Likelihoods for Fast Inversion of ’Likelihood-Free’ Dynamical Systems</title>
-      <link>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</link>
-      <pubDate>Tue, 14 Jul 2020 10:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>
-      <link>https://hanskersting.github.io/publication/differentiable-likelihoods/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/differentiable-likelihoods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Solutions to Ordinary Differential Equations as Non-Linear Bayesian Filtering: A New Perspective</title>
-      <link>https://hanskersting.github.io/publication/probabilistic-solutions-to-odes/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/probabilistic-solutions-to-odes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Filtering for ODEs with Bounded Derivatives</title>
-      <link>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active Uncertainty Calibration in Bayesian ODE Solvers</title>
-      <link>https://hanskersting.github.io/publication/active-uncertainty-calibration/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/active-uncertainty-calibration/</guid>
+      <title>Probabilistic Numerics - Computation as Machine Learning</title>
+      <link>https://hanskersting.github.io/publication/pn_book/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/pn_book/</guid>
       <description></description>
     </item>
     
