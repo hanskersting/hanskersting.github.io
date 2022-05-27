@@ -116,6 +116,15 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Our paper on anticorrelated noise injection got accepted to ICML 2022</title>
+      <link>https://hanskersting.github.io/post/antipgd_paper_accepted/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/post/antipgd_paper_accepted/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy that &lt;strong&gt;our paper on AntiPGD&lt;/strong&gt;, a version of stochastic gradient descent using anticorrelated perturbations, got accpeted to &lt;strong&gt;ICML 2022&lt;/strong&gt; in Baltimore, USA. You can read the PDF &lt;a href=&#34;https://arxiv.org/abs/2202.02831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Looking forward to attend my first ML conference after Covid, present this paper, and have some scientific discussions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Our book on Probabilistic Numerics can now be preordered.</title>
       <link>https://hanskersting.github.io/post/book_on_amazon/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>

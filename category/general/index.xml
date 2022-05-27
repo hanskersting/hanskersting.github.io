@@ -5,12 +5,21 @@
     <link>https://hanskersting.github.io/category/general/</link>
       <atom:link href="https://hanskersting.github.io/category/general/index.xml" rel="self" type="application/rss+xml" />
     <description>General</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>General</title>
       <link>https://hanskersting.github.io/category/general/</link>
     </image>
+    
+    <item>
+      <title>Our paper on anticorrelated noise injection got accepted to ICML 2022</title>
+      <link>https://hanskersting.github.io/post/antipgd_paper_accepted/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/post/antipgd_paper_accepted/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy that &lt;strong&gt;our paper on AntiPGD&lt;/strong&gt;, a version of stochastic gradient descent using anticorrelated perturbations, got accpeted to &lt;strong&gt;ICML 2022&lt;/strong&gt; in Baltimore, USA. You can read the PDF &lt;a href=&#34;https://arxiv.org/abs/2202.02831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Looking forward to attend my first ML conference after Covid, present this paper, and have some scientific discussions.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our book on Probabilistic Numerics can now be preordered.</title>
