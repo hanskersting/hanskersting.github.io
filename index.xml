@@ -5,7 +5,7 @@
     <link>https://hanskersting.github.io/</link>
       <atom:link href="https://hanskersting.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Kersting</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>H. Kersting</title>
@@ -105,6 +105,23 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explicit Regularization in Overparametrized Models via Noise Injection</title>
+      <link>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New preprint on regularization properties of noise injection out!</title>
+      <link>https://hanskersting.github.io/post/explicitnoiseinjection_paper_out/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/post/explicitnoiseinjection_paper_out/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2206.04613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This new paper&lt;/a&gt; is a follow-up to our &lt;a href=&#34;https://arxiv.org/abs/2202.02831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anti-PGD paper&lt;/a&gt; (ICML 2022). This time we show that small perturbations induce explicit regularization, which we spell out for a few models. Many new research avenues open up from our Theorem 2.&lt;/p&gt;
+</description>
     </item>
     
     <item>

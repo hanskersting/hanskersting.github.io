@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hans Kersting | H. Kersting</title>
-    <link>https://hanskersting.github.io/author/hans-kersting/</link>
-      <atom:link href="https://hanskersting.github.io/author/hans-kersting/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hans Kersting</description>
+    <title>Anant Raj | H. Kersting</title>
+    <link>https://hanskersting.github.io/author/anant-raj/</link>
+      <atom:link href="https://hanskersting.github.io/author/anant-raj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anant Raj</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Hans Kersting</title>
-      <link>https://hanskersting.github.io/author/hans-kersting/</link>
+      <title>Anant Raj</title>
+      <link>https://hanskersting.github.io/author/anant-raj/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Numerics - Computation as Machine Learning</title>
-      <link>https://hanskersting.github.io/publication/pn_book/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/pn_book/</guid>
       <description></description>
     </item>
     
