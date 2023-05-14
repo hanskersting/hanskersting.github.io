@@ -7,24 +7,123 @@
     <description>Hans Kersting</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanskersting.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hanskersting.github.io/author/hans-kersting/avatar_hu3d378274b25117872f7d40c87dfc790c_24150156_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Hans Kersting</title>
       <link>https://hanskersting.github.io/author/hans-kersting/</link>
     </image>
     
     <item>
-      <title>Explicit Regularization in Overparametrized Models via Noise Injection</title>
-      <link>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</link>
+      <title>New preprint on regularization properties of noise injection out!</title>
+      <link>https://hanskersting.github.io/post/explicitnoiseinjection_paper_out/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/explicit-regularization-in-overparametrized-models-via-noise-injection/</guid>
+      <guid>https://hanskersting.github.io/post/explicitnoiseinjection_paper_out/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2206.04613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This new paper&lt;/a&gt; is a follow-up to our &lt;a href=&#34;https://arxiv.org/abs/2202.02831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anti-PGD paper&lt;/a&gt; (ICML 2022). This time we show that small perturbations induce explicit regularization, which we spell out for a few models. Many new research avenues open up from our Theorem 2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper on anticorrelated noise injection got accepted to ICML 2022</title>
+      <link>https://hanskersting.github.io/post/antipgd_paper_accepted/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/post/antipgd_paper_accepted/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m happy that &lt;strong&gt;our paper on AntiPGD&lt;/strong&gt;, a version of stochastic gradient descent using anticorrelated perturbations, got accpeted to &lt;strong&gt;ICML 2022&lt;/strong&gt; in Baltimore, USA. You can read the PDF &lt;a href=&#34;https://arxiv.org/abs/2202.02831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Looking forward to attend my first ML conference after Covid, present this paper, and have some scientific discussions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our book on Probabilistic Numerics can now be preordered.</title>
+      <link>https://hanskersting.github.io/post/book_on_amazon/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/post/book_on_amazon/</guid>
+      <description>&lt;p&gt;Our book on Probabilistic Numerics will be out in June 2022. It can already be preordered &lt;a href=&#34;https://www.amazon.com/Probabilistic-Numerics-Computation-Machine-Learning/dp/1107163447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. A PDF will appear &lt;a href=&#34;https://www.probabilistic-numerics.org/textbooks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the probabilistic-numerics website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anticorrelated Noise Injection for Improved Generalization</title>
+      <link>https://hanskersting.github.io/publication/anticorrelated-noise/</link>
+      <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/anticorrelated-noise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probabilistic Numerics - Computation as Machine Learning</title>
-      <link>https://hanskersting.github.io/publication/pn_book/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanskersting.github.io/publication/pn_book/</guid>
+      <title>ODE Filters — Forward and Backward</title>
+      <link>https://hanskersting.github.io/talk/ode-filters-forward-and-backward/</link>
+      <pubDate>Tue, 26 Oct 2021 14:15:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/talk/ode-filters-forward-and-backward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
+      <link>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</link>
+      <pubDate>Tue, 06 Jul 2021 12:30:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/talk/uncertainty-aware-numerical-solutions-of-odes-by-bayesian-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware Numerical Solutions of ODEs by Bayesian Filtering</title>
+      <link>https://hanskersting.github.io/publication/phd-thesis/</link>
+      <pubDate>Wed, 21 Apr 2021 14:14:10 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Rates of Gaussian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/convergence-rates/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/convergence-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fourier State Space Model for Bayesian ODE Filters</title>
+      <link>https://hanskersting.github.io/publication/fourier-ssm/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/fourier-ssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ’Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</link>
+      <pubDate>Tue, 14 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/talk/differentiable-likelihoods-for-fast-inversion-of-likelihood-free-dynamical-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Likelihoods for Fast Inversion of ‘Likelihood-Free’ Dynamical Systems</title>
+      <link>https://hanskersting.github.io/publication/differentiable-likelihoods/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/differentiable-likelihoods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Solutions to Ordinary Differential Equations as Non-Linear Bayesian Filtering: A New Perspective</title>
+      <link>https://hanskersting.github.io/publication/probabilistic-solutions-to-odes/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/probabilistic-solutions-to-odes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Filtering for ODEs with Bounded Derivatives</title>
+      <link>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/bayesian-filtering-for-odes-with-bounded-derivatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Uncertainty Calibration in Bayesian ODE Solvers</title>
+      <link>https://hanskersting.github.io/publication/active-uncertainty-calibration/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://hanskersting.github.io/publication/active-uncertainty-calibration/</guid>
       <description></description>
     </item>
     
